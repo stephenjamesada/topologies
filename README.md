@@ -9,11 +9,11 @@ This repository stores experimental network topologies I've made for network des
 
 ## Purpose
 
-- Packet Tracer
+### Packet Tracer
 
 The simulator, used for creating mockups or sketching out topologies first,
 getting the basic idea.
 
-- GNS3
+### GNS3
 
 The emulator which brings that idea to life with real system images.
