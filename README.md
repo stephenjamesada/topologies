@@ -17,3 +17,10 @@ getting the basic idea.
 ### GNS3
 
 The emulator which brings that idea to life with real system images.
+
+## How to Navigate This Repository
+
+To check out a project, navigate to the project directory, listed either as
+`gns3/<title>` or `pkt/<title>`.
+The project binary itself will be included, as well as its own `README.md`
+and image of the topology
