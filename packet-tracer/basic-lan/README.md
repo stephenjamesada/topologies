@@ -1,7 +1,7 @@
 # Overview
 
 <p align="center">
-    <img src="basic-lan-pkt.png" alt="Basic LAN Packet Tracer Topology Image">
+    <img src="assets/images/basic-lan-pkt.png" alt="Basic LAN Packet Tracer Topology Image">
 </p>
 
 Basic single-switch two-box LAN;
