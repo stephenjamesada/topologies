@@ -20,6 +20,10 @@ Packet Tracer topologies will then be remade in GNS3.
 ## How to Navigate This Repository
 
 To check out a project, navigate to the project directory, listed either as
-`gns3/<title>` or `pkt/<title>`.
+`gns3/<title>` or `packet-tracer/<title>`.
 The project binary itself will be included, as well as its own `README.md`
 and image of the topology (its own `assets/images`).
+Both GNS3 and Packet Tracer folders have their own README files for easier navigation between projects.
+
+- [GNS3](gns3/README.md)
+- [Packet Tracer](packet-tracer/README.md)
