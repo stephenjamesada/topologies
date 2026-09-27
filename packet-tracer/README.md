@@ -2,4 +2,4 @@
 
 ## Navigation
 
-- Nothing yet.
+- [Basic LAN](basic-lan/README.md) 
