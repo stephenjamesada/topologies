@@ -4,4 +4,4 @@
 
 ## Overview
 
-![Basic LAN Topology Image](assets/images/basic-lan.png)
+<img src="assets/images/basic-lan.png" alt="Image of Basic LAN topology" align="middle">
