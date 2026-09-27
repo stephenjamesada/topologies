@@ -16,6 +16,12 @@ The topology showcases three components:
 
 A simple two-box, single-switch LAN.
 
+## Objective
+
+- Ensure both machines are connected to the switch
+- Set up static IPv4 addresses for each PC
+- Make sure each PC is able to ping one another
+
 ## Addresses
 
 | PC | Address |
