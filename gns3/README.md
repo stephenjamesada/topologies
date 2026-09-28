@@ -1,5 +1,10 @@
 # Topologies: GNS3
 
-## Navigation
+## Main Navigation
 
 - [Basic LAN](basic-lan/README.md)
+
+## Other
+
+- [Packet Tracer](../packet-tracer/README.md)
+- [Home](../README.md)
